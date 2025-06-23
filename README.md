@@ -23,13 +23,13 @@ Hello World!
 
 Do another 10 change, commit, and push cycles. You can make any change you want, or you can answer the 10 questions below. If it wasn't clear, you should have 11 total commits and pushes to GitHub, 1 from the section above and 10 from this section.
 
-1. What's the best Halloween costume you've ever had?
-2. What's your favorite word?
-3. What was your favorite class in high school?
-4. What’s your favorite book?
-5. What is your most-used emoji?
-6. If you could only eat either donuts or chips for the rest of your life, what would you choose?
-7. Are you a cat person or a dog person?
-8. What’s the last show you binge-watched?
-9. What's one of your hobbies?
-10. What’s your favorite board game?
+1. What's the best Halloween costume you've ever had? Rapunzel
+2. What's your favorite word? serenity!
+3. What was your favorite class in high school? creative writing
+4. What’s your favorite book? divine rivals
+5. What is your most-used emoji? pink heart
+6. If you could only eat either donuts or chips for the rest of your life, what would you choose? chips
+7. Are you a cat person or a dog person? cat person
+8. What’s the last show you binge-watched? we were liars
+9. What's one of your hobbies? reading
+10. What’s your favorite board game? chess
