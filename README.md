@@ -24,7 +24,7 @@ Hello World!
 Do another 10 change, commit, and push cycles. You can make any change you want, or you can answer the 10 questions below. If it wasn't clear, you should have 11 total commits and pushes to GitHub, 1 from the section above and 10 from this section.
 
 1. What's the best Halloween costume you've ever had? Rapunzel
-2. What's your favorite word? serenity
+2. What's your favorite word? serenity!
 3. What was your favorite class in high school? creative writing
 4. What’s your favorite book? divine rivals
 5. What is your most-used emoji? pink heart
