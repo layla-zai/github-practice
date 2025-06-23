@@ -15,7 +15,7 @@ Your only job today is to start to get used to using Git, Github, Github Desktop
 6. Click **Push origin**.
 7. Go back to the GitHub repository in your browser and you should see your changes (you may have to refresh the page.)
 
-MAKE YOUR FIRST CHANGE HERE
+Hello World!
 
 ---
 
