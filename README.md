@@ -32,4 +32,4 @@ Do another 10 change, commit, and push cycles. You can make any change you want,
 7. Are you a cat person or a dog person? cat person !
 8. What’s the last show you binge-watched? we were liars
 9. What's one of your hobbies? reading !
-10. What’s your favorite board game? chess
+10. What’s your favorite board game? chess !
